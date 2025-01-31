@@ -1,7 +1,7 @@
 # Cloths_Size_Predict
 "Clothing size prediction using machine learning based on age, weight, and height, deployed with a Streamlit API for user input and real-time predictions."
 
-<img src="">
+<img src="https://github.com/rpjinu/Cloths_Size_Predict/blob/main/project_image.jpeg">
 
 # 👕 Clothing Size Prediction API  
 
