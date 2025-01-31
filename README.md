@@ -38,7 +38,7 @@ Example data after preprocessing:
 
 ##Deploy api screenshort:-
 
-<img src="">
+<img src="https://github.com/rpjinu/Cloths_Size_Predict/blob/main/Deploy_imgl.png">
 
 ## ⚙️ Installation  
 Clone the repository:  
